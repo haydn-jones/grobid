@@ -67,7 +67,7 @@ grobid-home/models/ner
 grobid-home/models/nerfr
 grobid-home/models/nersense
 grobid-home/models/astro
-grobid-home/models/datasets
+# grobid-home/models/datasets
 
 grobid-home/models/lexical-entry/*
 grobid-home/models/*lexical-entry*
@@ -79,7 +79,7 @@ grobid-home/models/software*
 grobid-home/models/superconductors*
 grobid-home/models/values
 grobid-home/models/dataseer*
-grobid-home/models/datasets*
+# grobid-home/models/datasets*
 grobid-home/models/*-bert*/
 grobid-home/models/*_bert*/
 grobid-home/models/*scibert*/
@@ -91,4 +91,4 @@ Dockerfile.datastet
 .run
 annots/test
 PMC_sample_1943
-dataset
+# dataset
