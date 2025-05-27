@@ -64,9 +64,9 @@
 				
 			<p>Yield = 40%; mp = 212-214°C (EtOH); 1 H-NMR (400 MHz,<lb/> DMSO-d 6 ) δ 1.93 (s, 3H, CH 3 ), 3.62 (s, 3H, OCH 3 ), 4.82 (s,<lb/> 2H, NCH 2 ), 6.58 (d, J = 8.8 Hz, 2H, Ar), 6.73 (d, J = 8.8 Hz,<lb/> 2H, Ar), 7.29 (m, 1H, Ar), 7.40 (m, 3H, Ar), 7.47 (m, 4H:<lb/> 3H, Ar; 1H, exch br, NH), 7.67 (m, 2H, Ar), 10.32 (exch br<lb/> s, 1H, NH). 13 C-NMR (100 MHz, DMSO-d 6 ) δ 9.49, 51.26,<lb/> 55.37, 109.88, 115.03, 115.87, 117.42, 121.54, 127.27,<lb/> 128.21, 128.73, 131.95, 133.17, 136.19, 139.77, 145.48,<lb/> 150.92, 161.03, 165.40. ESI-MS calcd. for C 25 H 23 BrN 4 O 2 ,<lb/> 491.38; found: m/z 492.05 [M + H] + . Anal. Calcd for<lb/> C 25 H 23 BrN 4 O 2 : C 61.11, H 4.72, N 11.40. Found: C 61.30,<lb/> H 4.71, N 11.40.<lb/></p>
 
-			<p>N-(4-Bromophenyl)-2-[5-(3-methoxyphenylamino)-<lb/>pyrazol-1-yl]acetamide, 4e<lb/> 
+			<head>N-(4-Bromophenyl)-2-[5-(3-methoxyphenylamino)-<lb/>pyrazol-1-yl]acetamide, 4e<lb/> </head>
 				
-			Yield = 19%; mp = 140-143°C (EtOH); 1 H-NMR (400 MHz,<lb/> DMSO-d 6 ) δ 3.65 (s, 3H, OCH 3 ), 4.84 (s, 2H, NCH 2 ), 6.01<lb/> (d, J = 1.2 Hz, 1H, pyrazole), 6.32 (d, J = 8.4 Hz, 1H,<lb/> Ar), 6.41 (s, 1H, Ar), 6.44 (d, J = 7.6 Hz, 1H, Ar), 7.05<lb/> (t, J = 8.0 Hz, 1H, Ar), 7.39 (d, J = 1.2 Hz, 1H, pyrazole),<lb/> 7.47 (d, J = 8.8 Hz, 2H, Ar), 7.52 (d, J = 8.8 Hz, 2H, Ar),<lb/> 7.89 (exch br s, 1H, NH), 10.35 (exch br s, 1H, NH). 13 C-<lb/>NMR (100 MHz, DMSO-d 6 ) δ 51.03, 56.01, 91.90, 100.81,<lb/> 104.21, 107.62, 117.82, 122.71, 130.27, 132.11, 137.11,<lb/> 139.32, 147.70, 151.12, 162.80, 168.20. ESI-MS calcd. for<lb/> C 18 H 17 BrN 4 O 2 , 401.26; found: m/z 401.97 [M + H] + . Anal.<lb/> Calcd for C 18 H 17 BrN 4 O 2 : C 53.88, H 4.27, N 13.96. Found:<lb/> C 53.70, H 4.26, N 13.91.<lb/></p>
+			<p>Yield = 19%; mp = 140-143°C (EtOH); 1 H-NMR (400 MHz,<lb/> DMSO-d 6 ) δ 3.65 (s, 3H, OCH 3 ), 4.84 (s, 2H, NCH 2 ), 6.01<lb/> (d, J = 1.2 Hz, 1H, pyrazole), 6.32 (d, J = 8.4 Hz, 1H,<lb/> Ar), 6.41 (s, 1H, Ar), 6.44 (d, J = 7.6 Hz, 1H, Ar), 7.05<lb/> (t, J = 8.0 Hz, 1H, Ar), 7.39 (d, J = 1.2 Hz, 1H, pyrazole),<lb/> 7.47 (d, J = 8.8 Hz, 2H, Ar), 7.52 (d, J = 8.8 Hz, 2H, Ar),<lb/> 7.89 (exch br s, 1H, NH), 10.35 (exch br s, 1H, NH). 13 C-<lb/>NMR (100 MHz, DMSO-d 6 ) δ 51.03, 56.01, 91.90, 100.81,<lb/> 104.21, 107.62, 117.82, 122.71, 130.27, 132.11, 137.11,<lb/> 139.32, 147.70, 151.12, 162.80, 168.20. ESI-MS calcd. for<lb/> C 18 H 17 BrN 4 O 2 , 401.26; found: m/z 401.97 [M + H] + . Anal.<lb/> Calcd for C 18 H 17 BrN 4 O 2 : C 53.88, H 4.27, N 13.96. Found:<lb/> C 53.70, H 4.26, N 13.91.<lb/></p>
 
 			<head>2.2.3 | General procedure for 6a,b<lb/></head>
 
@@ -78,9 +78,7 @@
 
 			<head>3-(4-Methoxyphenyl)-5-methyl-1H-pyrazole-4-<lb/>carbonitrile, 6b<lb/></head>
 
-			<p>Yield = 31%; mp = 137-140°C (EtOH); 1 H-NMR (400 MHz,<lb/> CDCl 3 ) δ 2.48 (s, 3H, CH 3 ); 3.86 (s, 3H, OCH 3 ); 6.99 (d,<lb/> J = 8.8 Hz, 2H, Ar); 7.79 (d, J = 8.8 Hz, 2H, Ar). ESI-MS<lb/> calcd. for C 12 H 11 N 3 O, 213.24; found: m/z 214.06 [M + H] + .<lb/></p>
-
-			<p>Anal. Calcd for C 12 H 11 N 3 O: C 67.59, H 5.20, N 19.71.<lb/> Found: C 67.40, H 5.21, N 19.73.<lb/></p>
+			<p>Yield = 31%; mp = 137-140°C (EtOH); 1 H-NMR (400 MHz,<lb/> CDCl 3 ) δ 2.48 (s, 3H, CH 3 ); 3.86 (s, 3H, OCH 3 ); 6.99 (d,<lb/> J = 8.8 Hz, 2H, Ar); 7.79 (d, J = 8.8 Hz, 2H, Ar). ESI-MS<lb/> calcd. for C 12 H 11 N 3 O, 213.24; found: m/z 214.06 [M + H] + .<lb/> Anal. Calcd for C 12 H 11 N 3 O: C 67.59, H 5.20, N 19.71.<lb/> Found: C 67.40, H 5.21, N 19.73.<lb/></p>
 
 			<head>2.2.4 | General procedure for 7a,b<lb/></head>
 
